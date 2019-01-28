@@ -13,7 +13,12 @@ import java.util.Set;
 public class TaskCoolDown {
 //	http://www.cnblogs.com/EdwardLiu/p/5120091.html
 //	http://www.cnblogs.com/EdwardLiu/p/5120090.html
-		
+//Task Scheduler 所有题型包刮
+// 1. Total time for executing all tasks in order with cool time
+// 2. Output the final task schedule in order with cool time
+// 3. Total time for executing all tasks without order with cool time (LC 621)
+// 4. Output one of the final task schedule without order with cool time (Similar to LC 358)
+// 5. 跟楼上说的topological sort 相似 (自给也没准备到这个变形)
 	/**
 	 * Task Cooldown 1, 不能改变task的顺序，求一共多少时间处理。
 	 */
